@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "com.rajkishorbgp.onlineshopping.app-mergeDebugResources-44:/layout/fragment_home.xml",
+        "source": "com.rajkishorbgp.onlineshopping.app-main-47:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.rajkishorbgp.onlineshopping.app-mergeDebugResources-44:/layout/activity_login.xml",
+        "source": "com.rajkishorbgp.onlineshopping.app-main-47:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.rajkishorbgp.onlineshopping.app-mergeDebugResources-44:/layout/fragment_account_information.xml",
+        "source": "com.rajkishorbgp.onlineshopping.app-main-47:/layout/fragment_account_information.xml"
+    },
+    {
+        "merged": "com.rajkishorbgp.onlineshopping.app-mergeDebugResources-44:/layout/header_layout.xml",
+        "source": "com.rajkishorbgp.onlineshopping.app-main-47:/layout/header_layout.xml"
+    },
+    {
+        "merged": "com.rajkishorbgp.onlineshopping.app-mergeDebugResources-44:/layout/cart_list_menu.xml",
+        "source": "com.rajkishorbgp.onlineshopping.app-main-47:/layout/cart_list_menu.xml"
+    },
+    {
+        "merged": "com.rajkishorbgp.onlineshopping.app-mergeDebugResources-44:/layout/activity_registration.xml",
+        "source": "com.rajkishorbgp.onlineshopping.app-main-47:/layout/activity_registration.xml"
+    },
+    {
+        "merged": "com.rajkishorbgp.onlineshopping.app-mergeDebugResources-44:/layout/activity_edit.xml",
+        "source": "com.rajkishorbgp.onlineshopping.app-main-47:/layout/activity_edit.xml"
+    },
+    {
+        "merged": "com.rajkishorbgp.onlineshopping.app-mergeDebugResources-44:/layout/home_list_view.xml",
+        "source": "com.rajkishorbgp.onlineshopping.app-main-47:/layout/home_list_view.xml"
+    },
+    {
+        "merged": "com.rajkishorbgp.onlineshopping.app-mergeDebugResources-44:/layout/activity_main.xml",
+        "source": "com.rajkishorbgp.onlineshopping.app-main-47:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.rajkishorbgp.onlineshopping.app-mergeDebugResources-44:/layout/activity_order.xml",
+        "source": "com.rajkishorbgp.onlineshopping.app-main-47:/layout/activity_order.xml"
+    },
+    {
+        "merged": "com.rajkishorbgp.onlineshopping.app-mergeDebugResources-44:/layout/fragment_cart.xml",
+        "source": "com.rajkishorbgp.onlineshopping.app-main-47:/layout/fragment_cart.xml"
+    }
+]

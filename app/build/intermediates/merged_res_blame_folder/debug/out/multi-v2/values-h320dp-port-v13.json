@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.rajkishorbgp.onlineshopping.app-mergeDebugResources-43:/values-h320dp-port-v13/values-h320dp-port-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Dell\\.gradle\\caches\\8.9\\transforms\\e33283d81a37e394901b1251c84e5b23\\transformed\\material-1.10.0\\res\\values-h320dp-port-v13\\values-h320dp-port-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "75",
+                        "endOffsets": "126"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,194 @@
+[
+    {
+        "merged": "com.rajkishorbgp.onlineshopping.app-merged_res-45:/drawable_baseline_output_24.xml.flat",
+        "source": "com.rajkishorbgp.onlineshopping.app-main-47:/drawable/baseline_output_24.xml"
+    },
+    {
+        "merged": "com.rajkishorbgp.onlineshopping.app-merged_res-45:/drawable_baseline_shopping_cart_24.xml.flat",
+        "source": "com.rajkishorbgp.onlineshopping.app-main-47:/drawable/baseline_shopping_cart_24.xml"
+    },
+    {
+        "merged": "com.rajkishorbgp.onlineshopping.app-merged_res-45:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.rajkishorbgp.onlineshopping.app-main-47:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.rajkishorbgp.onlineshopping.app-merged_res-45:/drawable_balbe.png.flat",
+        "source": "com.rajkishorbgp.onlineshopping.app-main-47:/drawable/balbe.png"
+    },
+    {
+        "merged": "com.rajkishorbgp.onlineshopping.app-merged_res-45:/drawable_baseline_email_24.xml.flat",
+        "source": "com.rajkishorbgp.onlineshopping.app-main-47:/drawable/baseline_email_24.xml"
+    },
+    {
+        "merged": "com.rajkishorbgp.onlineshopping.app-merged_res-45:/drawable_notbook.png.flat",
+        "source": "com.rajkishorbgp.onlineshopping.app-main-47:/drawable/notbook.png"
+    },
+    {
+        "merged": "com.rajkishorbgp.onlineshopping.app-merged_res-45:/layout_fragment_home.xml.flat",
+        "source": "com.rajkishorbgp.onlineshopping.app-main-47:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.rajkishorbgp.onlineshopping.app-merged_res-45:/drawable_baseline_account_circle_24.xml.flat",
+        "source": "com.rajkishorbgp.onlineshopping.app-main-47:/drawable/baseline_account_circle_24.xml"
+    },
+    {
+        "merged": "com.rajkishorbgp.onlineshopping.app-merged_res-45:/layout_header_layout.xml.flat",
+        "source": "com.rajkishorbgp.onlineshopping.app-main-47:/layout/header_layout.xml"
+    },
+    {
+        "merged": "com.rajkishorbgp.onlineshopping.app-merged_res-45:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.rajkishorbgp.onlineshopping.app-main-47:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.rajkishorbgp.onlineshopping.app-merged_res-45:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.rajkishorbgp.onlineshopping.app-main-47:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.rajkishorbgp.onlineshopping.app-merged_res-45:/layout_activity_edit.xml.flat",
+        "source": "com.rajkishorbgp.onlineshopping.app-main-47:/layout/activity_edit.xml"
+    },
+    {
+        "merged": "com.rajkishorbgp.onlineshopping.app-merged_res-45:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.rajkishorbgp.onlineshopping.app-main-47:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.rajkishorbgp.onlineshopping.app-merged_res-45:/drawable_earbard.png.flat",
+        "source": "com.rajkishorbgp.onlineshopping.app-main-47:/drawable/earbard.png"
+    },
+    {
+        "merged": "com.rajkishorbgp.onlineshopping.app-merged_res-45:/drawable_tshirt.png.flat",
+        "source": "com.rajkishorbgp.onlineshopping.app-main-47:/drawable/tshirt.png"
+    },
+    {
+        "merged": "com.rajkishorbgp.onlineshopping.app-merged_res-45:/drawable_langa.png.flat",
+        "source": "com.rajkishorbgp.onlineshopping.app-main-47:/drawable/langa.png"
+    },
+    {
+        "merged": "com.rajkishorbgp.onlineshopping.app-merged_res-45:/drawable_baseline_person_24.xml.flat",
+        "source": "com.rajkishorbgp.onlineshopping.app-main-47:/drawable/baseline_person_24.xml"
+    },
+    {
+        "merged": "com.rajkishorbgp.onlineshopping.app-merged_res-45:/drawable_oil.png.flat",
+        "source": "com.rajkishorbgp.onlineshopping.app-main-47:/drawable/oil.png"
+    },
+    {
+        "merged": "com.rajkishorbgp.onlineshopping.app-merged_res-45:/layout_activity_main.xml.flat",
+        "source": "com.rajkishorbgp.onlineshopping.app-main-47:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.rajkishorbgp.onlineshopping.app-merged_res-45:/drawable_baseline_home_24.xml.flat",
+        "source": "com.rajkishorbgp.onlineshopping.app-main-47:/drawable/baseline_home_24.xml"
+    },
+    {
+        "merged": "com.rajkishorbgp.onlineshopping.app-merged_res-45:/layout_activity_login.xml.flat",
+        "source": "com.rajkishorbgp.onlineshopping.app-main-47:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.rajkishorbgp.onlineshopping.app-merged_res-45:/drawable_baseline_lock_24.xml.flat",
+        "source": "com.rajkishorbgp.onlineshopping.app-main-47:/drawable/baseline_lock_24.xml"
+    },
+    {
+        "merged": "com.rajkishorbgp.onlineshopping.app-merged_res-45:/drawable_baseline_contact_phone_24.xml.flat",
+        "source": "com.rajkishorbgp.onlineshopping.app-main-47:/drawable/baseline_contact_phone_24.xml"
+    },
+    {
+        "merged": "com.rajkishorbgp.onlineshopping.app-merged_res-45:/drawable_baseline_edit_24.xml.flat",
+        "source": "com.rajkishorbgp.onlineshopping.app-main-47:/drawable/baseline_edit_24.xml"
+    },
+    {
+        "merged": "com.rajkishorbgp.onlineshopping.app-merged_res-45:/drawable_iphone15.png.flat",
+        "source": "com.rajkishorbgp.onlineshopping.app-main-47:/drawable/iphone15.png"
+    },
+    {
+        "merged": "com.rajkishorbgp.onlineshopping.app-merged_res-45:/drawable_baseline_arrow_back_24.xml.flat",
+        "source": "com.rajkishorbgp.onlineshopping.app-main-47:/drawable/baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "com.rajkishorbgp.onlineshopping.app-merged_res-45:/drawable_home_light.png.flat",
+        "source": "com.rajkishorbgp.onlineshopping.app-main-47:/drawable/home_light.png"
+    },
+    {
+        "merged": "com.rajkishorbgp.onlineshopping.app-merged_res-45:/drawable_boot.png.flat",
+        "source": "com.rajkishorbgp.onlineshopping.app-main-47:/drawable/boot.png"
+    },
+    {
+        "merged": "com.rajkishorbgp.onlineshopping.app-merged_res-45:/layout_cart_list_menu.xml.flat",
+        "source": "com.rajkishorbgp.onlineshopping.app-main-47:/layout/cart_list_menu.xml"
+    },
+    {
+        "merged": "com.rajkishorbgp.onlineshopping.app-merged_res-45:/drawable_group_bk_image.png.flat",
+        "source": "com.rajkishorbgp.onlineshopping.app-main-47:/drawable/group_bk_image.png"
+    },
+    {
+        "merged": "com.rajkishorbgp.onlineshopping.app-merged_res-45:/drawable_baseline_map_24.xml.flat",
+        "source": "com.rajkishorbgp.onlineshopping.app-main-47:/drawable/baseline_map_24.xml"
+    },
+    {
+        "merged": "com.rajkishorbgp.onlineshopping.app-merged_res-45:/drawable_baseline_error_24.xml.flat",
+        "source": "com.rajkishorbgp.onlineshopping.app-main-47:/drawable/baseline_error_24.xml"
+    },
+    {
+        "merged": "com.rajkishorbgp.onlineshopping.app-merged_res-45:/layout_activity_registration.xml.flat",
+        "source": "com.rajkishorbgp.onlineshopping.app-main-47:/layout/activity_registration.xml"
+    },
+    {
+        "merged": "com.rajkishorbgp.onlineshopping.app-merged_res-45:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.rajkishorbgp.onlineshopping.app-main-47:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.rajkishorbgp.onlineshopping.app-merged_res-45:/drawable_birthday.png.flat",
+        "source": "com.rajkishorbgp.onlineshopping.app-main-47:/drawable/birthday.png"
+    },
+    {
+        "merged": "com.rajkishorbgp.onlineshopping.app-merged_res-45:/layout_home_list_view.xml.flat",
+        "source": "com.rajkishorbgp.onlineshopping.app-main-47:/layout/home_list_view.xml"
+    },
+    {
+        "merged": "com.rajkishorbgp.onlineshopping.app-merged_res-45:/menu_nev_menu_main.xml.flat",
+        "source": "com.rajkishorbgp.onlineshopping.app-main-47:/menu/nev_menu_main.xml"
+    },
+    {
+        "merged": "com.rajkishorbgp.onlineshopping.app-merged_res-45:/layout_activity_order.xml.flat",
+        "source": "com.rajkishorbgp.onlineshopping.app-main-47:/layout/activity_order.xml"
+    },
+    {
+        "merged": "com.rajkishorbgp.onlineshopping.app-merged_res-45:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.rajkishorbgp.onlineshopping.app-main-47:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.rajkishorbgp.onlineshopping.app-merged_res-45:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.rajkishorbgp.onlineshopping.app-main-47:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.rajkishorbgp.onlineshopping.app-merged_res-45:/drawable_macbook.png.flat",
+        "source": "com.rajkishorbgp.onlineshopping.app-main-47:/drawable/macbook.png"
+    },
+    {
+        "merged": "com.rajkishorbgp.onlineshopping.app-merged_res-45:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.rajkishorbgp.onlineshopping.app-main-47:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.rajkishorbgp.onlineshopping.app-merged_res-45:/layout_fragment_cart.xml.flat",
+        "source": "com.rajkishorbgp.onlineshopping.app-main-47:/layout/fragment_cart.xml"
+    },
+    {
+        "merged": "com.rajkishorbgp.onlineshopping.app-merged_res-45:/xml_backup_rules.xml.flat",
+        "source": "com.rajkishorbgp.onlineshopping.app-main-47:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.rajkishorbgp.onlineshopping.app-merged_res-45:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.rajkishorbgp.onlineshopping.app-main-47:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.rajkishorbgp.onlineshopping.app-merged_res-45:/xml_data_extraction_rules.xml.flat",
+        "source": "com.rajkishorbgp.onlineshopping.app-main-47:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.rajkishorbgp.onlineshopping.app-merged_res-45:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.rajkishorbgp.onlineshopping.app-main-47:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.rajkishorbgp.onlineshopping.app-merged_res-45:/layout_fragment_account_information.xml.flat",
+        "source": "com.rajkishorbgp.onlineshopping.app-main-47:/layout/fragment_account_information.xml"
+    }
+]
